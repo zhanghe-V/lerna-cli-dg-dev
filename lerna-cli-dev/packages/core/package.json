@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+     "lerna-cli-dg-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -22,5 +25,5 @@
   "dependencies": {
     "@lerna-cli-dg-dev/utils": "^1.0.2"
   },
-  "gitHead": "6e112763fb9875d10371ed7509ff7daff32f5c15"
+  "gitHead": "ed4419dc2e55b99ca3c1d94c9c8998d253d13bac"
 }
