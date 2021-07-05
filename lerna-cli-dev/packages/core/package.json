@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@lerna-cli-dg-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "6e112763fb9875d10371ed7509ff7daff32f5c15"
 }
