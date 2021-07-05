@@ -1,6 +1,6 @@
 {
   "name": "lerna-cli-dev",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "lerna-cli dev",
   "main": "index.js",
   "scripts": {
