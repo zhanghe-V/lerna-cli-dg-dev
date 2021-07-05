@@ -1,6 +1,6 @@
 {
   "name": "@lerna-cli-dg-dev/utils",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "lerna-cli-dg-dev util",
   "author": "zhanghe-V <807597850@qq.com>",
   "homepage": "",
@@ -18,6 +18,5 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root utils\""
-  },
-  "gitHead": "ed4419dc2e55b99ca3c1d94c9c8998d253d13bac"
+  }
 }

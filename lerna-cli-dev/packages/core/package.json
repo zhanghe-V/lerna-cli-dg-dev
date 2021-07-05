@@ -1,6 +1,6 @@
 {
   "name": "@lerna-cli-dg-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "lerna-cli-dg-dev core",
   "author": "zhanghe-V <807597850@qq.com>",
   "homepage": "",
@@ -24,6 +24,5 @@
   },
   "dependencies": {
     "@lerna-cli-dg-dev/utils": "^1.0.3"
-  },
-  "gitHead": "ed4419dc2e55b99ca3c1d94c9c8998d253d13bac"
+  }
 }
