@@ -1,13 +1,13 @@
 {
   "name": "@lerna-cli-dg-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "lerna-cli-dg-dev core",
   "author": "zhanghe-V <807597850@qq.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
   "bin": {
-     "lerna-cli-dg-dev": "bin/index.js"
+    "lerna-cli-dg-dev": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root core\""
   },
   "dependencies": {
-    "@lerna-cli-dg-dev/utils": "^1.0.2"
+    "@lerna-cli-dg-dev/utils": "^1.0.3"
   },
   "gitHead": "ed4419dc2e55b99ca3c1d94c9c8998d253d13bac"
 }
