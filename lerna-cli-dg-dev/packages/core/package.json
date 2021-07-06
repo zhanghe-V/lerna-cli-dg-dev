@@ -1,6 +1,6 @@
 {
   "name": "@lerna-cli-dg-dev/core",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "lerna-cli-dg-dev core",
   "author": "zhanghe-V <807597850@qq.com>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root core\""
   },
   "dependencies": {
-    "@lerna-cli-dg-dev/utils": "^1.0.5"
+    "@lerna-cli-dg-dev/utils": "^1.0.6"
   },
   "gitHead": "4cec1b93aa793e2206dab4dfbc843bdd2cede929"
 }
