@@ -23,3 +23,5 @@
   1. lerna changed 查看上版本以来所有变更
   1. lerna diff 查看diff
   1. lerna publish 项目发布*
+
+## lerna源码分析

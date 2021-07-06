@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root core\""
   },
   "dependencies": {
-    "@lerna-cli-dg-dev/utils": "^1.0.6"
+    "@lerna-cli-dg-dev/utils": "file:../utils"
   },
   "gitHead": "4cec1b93aa793e2206dab4dfbc843bdd2cede929"
 }
