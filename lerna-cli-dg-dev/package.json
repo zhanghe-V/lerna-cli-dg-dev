@@ -1,7 +1,7 @@
 {
-  "name": "lerna-cli-dev",
+  "name": "lerna-cli-dg-dev",
   "version": "1.0.5",
-  "description": "lerna-cli dev",
+  "description": "lerna-cli-dg dev",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

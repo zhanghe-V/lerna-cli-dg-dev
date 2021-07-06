@@ -17,7 +17,6 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "scripts": {
@@ -26,5 +25,5 @@
   "dependencies": {
     "@lerna-cli-dg-dev/utils": "^1.0.5"
   },
-  "gitHead": "8639bbef778c851f2fa84c23cc758db5e1f2fc7a"
+  "gitHead": "4cec1b93aa793e2206dab4dfbc843bdd2cede929"
 }
